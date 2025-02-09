@@ -1,0 +1,3 @@
+Name: Jocel Encio 
+Course: BSIT
+Interests in programming: Python
